@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="400px" height="400px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 4000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#717171;stroke-width:125.008}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+  <path class="fil0 str0" d="M2780 563l282 0 0 2812 -2187 0c0,0 0,-1402 0,-2226 0,-343 0,-586 0,-586l341 0m221 874l1126 0m-1126 626l1126 0m-1126 625l1126 0m-1030 -2376l934 0c27,0 41,0 54,5l2 0c16,6 29,19 35,35 5,15 5,29 5,56l0 184c0,27 0,41 -5,54l0 2c-6,16 -19,29 -35,35 -15,4 -29,4 -56,4l-934 0c-27,0 -41,0 -54,-4l-2 0c-16,-6 -29,-19 -35,-35 -5,-15 -5,-29 -5,-56l0 -184c0,-27 0,-41 5,-54l0 -2c6,-16 19,-29 35,-35 15,-5 29,-5 56,-5z"/>
+</svg>

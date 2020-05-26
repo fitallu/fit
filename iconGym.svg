@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="400px" height="400px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000000 4000000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#717171;stroke-width:130004;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+  <rect class="fil0 str0" x="1076341" y="1210160" width="489733" height="1623842" rx="19996" ry="19996"/>
+  <rect class="fil0 str0" x="747282" y="1454485" width="329051" height="1091055" rx="13435" ry="13435"/>
+  <rect class="fil0 str0" x="418226" y="1863630" width="329051" height="272764" rx="13435" ry="3359"/>
+  <rect class="fil0 str0" x="1582442" y="1863630" width="835116" height="272764" rx="34098" ry="3359"/>
+  <rect class="fil0 str0" x="2417556" y="1188085" width="489733" height="1623842" rx="19996" ry="19996"/>
+  <rect class="fil0 str0" x="2907298" y="1476546" width="329051" height="1091055" rx="13435" ry="13435"/>
+  <rect class="fil0 str0" x="3236353" y="1885693" width="329051" height="272764" rx="13435" ry="3359"/>
+</svg>

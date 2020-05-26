@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="400px" height="400px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000000 4000000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#717171;stroke-width:130004;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+  <path class="fil0 str0" d="M3238565 1731287c-225579,739265 -701800,1087537 -1060880,1321869l-1031647 -619974c-380422,-681226 -75225,-1446771 176835,-1495928 198721,-38752 219921,79405 171354,528733 57898,-310831 185209,-725789 441426,-818482 295359,-113894 1463684,637431 1302912,1083782z"/>
+  <path class="fil0 str0" d="M1146038 2433182l1031647 619974c-108271,171768 -252957,485764 -432804,556394l-878919 -536894c-49275,-216627 161292,-424419 280076,-639474z"/>
+  <rect class="fil0 str0" transform="matrix(0.86653 0.499125 -0.499125 0.86653 1.23322E+006 2.74501E+006)" width="728801" height="257800" rx="24791" ry="24791"/>
+</svg>

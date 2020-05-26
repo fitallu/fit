@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="400px" height="400px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4000 4000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#717171;stroke-width:125.008;stroke-linecap:round;stroke-linejoin:bevel}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+  <path class="fil0 str0" d="M3437 2611c0,0 -107,-222 -695,-189 -589,33 -944,587 -1600,578 -655,-9 -705,-278 -705,-278m714 -792c140,-147 280,-202 437,-202 157,0 297,73 297,73l-1049 698c0,0 284,133 577,36 293,-96 297,-165 638,-358 341,-192 542,-165 542,-165 0,0 -441,-748 -870,-748 -428,0 -782,207 -904,427 -123,220 192,385 332,239zm2286 -618c0,-242 -195,-438 -437,-438 -242,0 -437,196 -437,438 0,241 195,437 437,437 242,0 437,-196 437,-437z"/>
+</svg>
